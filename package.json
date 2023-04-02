@@ -1,0 +1,27 @@
+{
+  "name": "npm_assignment",
+  "version": "1.0.0",
+  "description": "testing npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prospyb/Node-NPM-Assignment.git"
+  },
+  "keywords": [
+    "index"
+  ],
+  "author": "prosper_ekuaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prospyb/Node-NPM-Assignment/issues"
+  },
+  "homepage": "https://github.com/prospyb/Node-NPM-Assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}
